@@ -1,0 +1,8 @@
+dataset,version,metric,mode,Foundation-Sec-8B
+_root_opencompass_data_cissp,94d94a,accuracy,gen,49.12
+_root_opencompass_data_cissp,94d94a,f1,gen,0.49
+_root_opencompass_data_cissp,94d94a,accuracy_given_attempted,gen,49.14
+_root_opencompass_data_cissp,94d94a,attempted_ratio,gen,99.96
+_root_opencompass_data_cissp,94d94a,correct_count,gen,1198.00
+_root_opencompass_data_cissp,94d94a,incorrect_count,gen,1240.00
+_root_opencompass_data_cissp,94d94a,not_attempted_count,gen,1.00

@@ -1,0 +1,8 @@
+dataset,version,metric,mode,Foundation-Sec-8B
+_root_opencompass_data_cisco,e5f983,accuracy,gen,67.00
+_root_opencompass_data_cisco,e5f983,f1,gen,0.67
+_root_opencompass_data_cisco,e5f983,accuracy_given_attempted,gen,67.07
+_root_opencompass_data_cisco,e5f983,attempted_ratio,gen,99.90
+_root_opencompass_data_cisco,e5f983,correct_count,gen,670.00
+_root_opencompass_data_cisco,e5f983,incorrect_count,gen,329.00
+_root_opencompass_data_cisco,e5f983,not_attempted_count,gen,1.00

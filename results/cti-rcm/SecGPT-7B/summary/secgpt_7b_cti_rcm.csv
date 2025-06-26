@@ -1,0 +1,3 @@
+dataset,version,metric,mode,opencompass.models.OpenAISDK_opencompass_SecGPT-7B-0605
+_home_opencompass_data_cisco,e5f983,accuracy,gen,70.30
+_home_opencompass_data_cisco,e5f983,f1,gen,0.70

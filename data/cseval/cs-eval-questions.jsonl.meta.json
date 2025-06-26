@@ -1,0 +1,16 @@
+{
+    "abbr": "cs-eval-questions",
+    "data_type": "qa",
+    "infer_method": "gen",
+    "input_columns": ["prompt"],
+    "output_column": null,
+    "human_prompt": "{prompt}",
+    "template": {
+        "round": [
+            {
+                "role": "HUMAN",
+                "prompt": "{prompt}"
+            }
+        ]
+    }
+}
